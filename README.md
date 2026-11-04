@@ -7,7 +7,7 @@
 | Name | Organization | Email |
 |---|---|---|
 | Hyeonmin Choi | Department of Information Systems, Hanyang University | daniel794@hanyang.ac.kr |
-| Togtokhbayar Bilegt | Department of Data Science, Hanyang University | TBD |
+| Togtokhbayar Bilegt | Department of Data Science, Hanyang University | bilegt20051105@gmail.com |
 
 ## Research Idea
 
